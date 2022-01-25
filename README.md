@@ -14,7 +14,7 @@
 
 ```
 // clone项目
-git clone https://github.com/kaiser-9527/silk.git
+npx degit kaiser-9527/silk.git
 
 // 安装依赖并运行 (推荐使用pnpm)
 pnpm i & pnpm run dev

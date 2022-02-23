@@ -1,6 +1,6 @@
 # Silk
 
-一个 Vue3 脚手架([github 地址](https://github.com/kaiser-9527/silk.git))
+一个 Vue3 脚手架
 
 首先它肯定是基于 `vue3` + `ts` + `vite`的
 
